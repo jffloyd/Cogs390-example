@@ -1,3 +1,3 @@
 example
 
-My name is Joelle.
+My name is Joelle. (CogSci)
